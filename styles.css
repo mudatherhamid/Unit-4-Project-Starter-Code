@@ -1,0 +1,21 @@
+div {
+    border: 1px solid black;   
+}
+
+img {
+    width: 200px;   
+}
+.navBar{
+    justify-content: space-between;
+    display: flex;
+}
+
+h1{
+    font-family: 'Yusei Magic', sans-serif;
+}
+img{
+    height: 200px;
+    padding: 10px;
+    margin: 5px;
+    border:10px dashed blue;
+}
